@@ -14,3 +14,20 @@ h1{
 a{
   color:aquamarine;
 }
+
+h2{
+  font-weight: 300;
+  font-size:42px;
+  color:white;
+}
+
+p{
+  color:gray;
+  font-size: 21px;
+}
+
+.copy{
+  color:gray;
+  text-align:right;
+  font-weight:normal;
+}
